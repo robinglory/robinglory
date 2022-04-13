@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on .....
 - 📫 You can reach me from this email. koyannaingkyawtint@gmail.com
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/robinglory/robinglory/master/devcard.svg" width="400" alt="Robin's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/robinglory/robinglory/blob/master/devcard.svg" width="400" alt="Robin's Dev Card"/></a>
 
 
 
